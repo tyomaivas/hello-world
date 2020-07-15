@@ -8,3 +8,7 @@ This line was added by local repo. And this was added later.
 
 
 Merge conflict?
+
+
+
+ADDED BY ANOTHER USER
